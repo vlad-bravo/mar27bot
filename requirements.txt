@@ -1,4 +1,6 @@
 aiogram
+lxml
 openpyxl
 pandas
 python-dotenv
+requests
