@@ -21,6 +21,7 @@ def value_from_str(str_value: str) -> float:
                 divider *= 10
         if char == '.' or char == ',':
             is_after_dp = True
+            divider = 1
     return value / divider
 
 def main():

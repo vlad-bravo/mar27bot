@@ -2,5 +2,6 @@ aiogram
 lxml
 openpyxl
 pandas
+pytest
 python-dotenv
 requests
